@@ -6,11 +6,27 @@ IDIPLAB机器视觉工具包
 
 ## 概括
 
-`IDIPLAB_CV`是
+`IDIPLAB_CV`是一个由IDIPLAB开发的用于机器视觉的顶层工具包，涵盖了基础的图形图像处理算法和集成化的深度学习框架接口。IDIPLAB_CV致力于将实验室的成功项目凝练成可以反复使用的工具包。前人栽树后人乘凉，给后辈们切实的技术支持。
 
-Keras is a high-level neural networks API, written in Python and capable of running on top of [TensorFlow](https://github.com/tensorflow/tensorflow), [CNTK](https://github.com/Microsoft/cntk), or [Theano](https://github.com/Theano/Theano). It was developed with a focus on enabling fast experimentation. *Being able to go from idea to result with the least possible delay is key to doing good research.*
 
-详细文档请阅读[wiki](https://github.com/Sandigal/IDIPLAB_CV/wiki)。
+
+## 如何使用
+
+- 首先需要下载工具包。可以直接使用`git`命令获取全部工程文件，也可以通过[releases](https://github.com/Sandigal/IDIPLAB_CV/releases)下载代码。
+
+```
+git clone https://github.com/Sandigal/IDIPLAB_CV.git
+```
+
+- 接下来将工具包放置到工程根目录内，导入即可使用。
+
+```python
+import IDIPLAB_CV
+```
+
+- 使用细则请务必阅读**[说明文档](https://github.com/Sandigal/IDIPLAB_CV/wiki)**。
+
+
 
 
 
