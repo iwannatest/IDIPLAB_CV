@@ -26,7 +26,7 @@ git clone https://github.com/Sandigal/IDIPLAB_CV.git
 import IDIPLAB_CV
 ```
 
-- 使用细则请务必阅读**[说明文档](https://github.com/Sandigal/IDIPLAB_CV/wiki)**。
+- 详细使用方法请阅读[**说明文档**](https://github.com/Sandigal/IDIPLAB_CV/wiki)。
 
 
 
